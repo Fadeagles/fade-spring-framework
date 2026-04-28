@@ -1,7 +1,6 @@
 package com.fade.spring.debug;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.util.ObjectUtils;
 
 public class XmlBeanDebugApplication {
 
